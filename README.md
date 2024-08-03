@@ -43,7 +43,7 @@ InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecu
 Run the script:
 
 ```sh
-python3 infofinderv2.py
+python3 InfoSnoop.py
 
 ## Tips
 
