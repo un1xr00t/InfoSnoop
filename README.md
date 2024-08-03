@@ -44,3 +44,7 @@ Run the script:
 
 ```sh
 python3 infofinderv2.py
+
+## Tips
+
+If you want to change to a different theme, go to the directory that InfoSnoop.py is in and delete 'config.ini'. This will allow you to change the theme the next time you launch InfoSnoop.py.
