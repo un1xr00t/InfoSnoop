@@ -25,7 +25,7 @@ InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecu
     cd InfoSnoop
     ```
 
-2. Create and activate a virtual environment(optional):
+2. Create and activate a virtual environment **(OPTIONAL)**:
 
     ```sh
     python3 -m venv venv
