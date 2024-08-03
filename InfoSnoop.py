@@ -3,7 +3,7 @@ import json
 import os
 import configparser
 
-# Constants
+#a Constants
 API_URL = "https://api.proxynova.com/comb"
 LIMIT = 100  # max results per request
 CONFIG_FILE = "config.ini"
