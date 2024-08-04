@@ -3,8 +3,8 @@
 ## Disclaimer
 
 This tool is for educational purposes only. The developers are not responsible for any misuse of this tool. Do not use this tool for illegal activities.
+![infosnoop](https://github.com/user-attachments/assets/cfc67086-f6bf-4fc7-879e-4c63af96a281)
 
-![infosnoopv2](https://github.com/user-attachments/assets/9b71a961-23bb-4cbc-bb7e-9051db2924fd)
 
 ## Introduction
 
