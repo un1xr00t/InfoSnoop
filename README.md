@@ -1,4 +1,5 @@
 # InfoSnoop
+![infosnoopv2](https://github.com/user-attachments/assets/9b71a961-23bb-4cbc-bb7e-9051db2924fd)
 
 ## Disclaimer
 
