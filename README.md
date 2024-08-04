@@ -8,7 +8,7 @@ This tool is for educational purposes only. The developers are not responsible f
 
 ## Introduction
 
-InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecurity enthusiasts, ethical hackers, and penetration testers. With InfoSnoop, you can search for sensitive information such as usernames, emails, and known passwords across multiple platforms with ease and efficiency. The tool supports various themes for a customizable user experience.
+InfoSnoop is a powerful and versatile info-gathering tool designed for cysbersecurity enthusiasts, ethical hackers, and penetration testers. With InfoSnoop, you can search for sensitive information such as usernames, emails, and known passwords across multiple platforms with ease and efficiency. The tool supports various themes for a customizable user experience.
 
 ## Features
 
