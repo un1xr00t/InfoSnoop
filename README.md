@@ -1,9 +1,10 @@
 # InfoSnoop
-![infosnoopv2](https://github.com/user-attachments/assets/9b71a961-23bb-4cbc-bb7e-9051db2924fd)
 
 ## Disclaimer
 
 This tool is for educational purposes only. The developers are not responsible for any misuse of this tool. Do not use this tool for illegal activities.
+
+![infosnoopv2](https://github.com/user-attachments/assets/9b71a961-23bb-4cbc-bb7e-9051db2924fd)
 
 ## Introduction
 
