@@ -3,6 +3,7 @@
 ## Disclaimer
 
 This tool is for educational purposes only. The developers are not responsible for any misuse of this tool. Do not use this tool for illegal activities.
+
 ![infosnoop](https://github.com/user-attachments/assets/d31af9e7-12c9-4d00-962a-575f988b1d0a)
 
 
