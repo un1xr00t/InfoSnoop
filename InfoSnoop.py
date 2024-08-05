@@ -13,7 +13,6 @@ CONFIG_FILE = "config.ini"
 def rgb(r, g, b):
     return f"\033[38;2;{r};{g};{b}m"
 
-
 def gradient_text(text, start_color, end_color):
     def interpolate(start, end, factor):
         return int(start + (end - start) * factor)
@@ -30,14 +29,11 @@ def gradient_text(text, start_color, end_color):
 
     return result + "\033[0m"  # Reset to default color
 
-
 def hacker_green_text(text):
     return f"\033[38;2;0;255;0m{text}\033[0m"
 
-
 def blood_red_text(text):
     return f"\033[38;2;139;0;0m{text}\033[0m"
-
 
 def banner():
     banner_text = '''
@@ -60,13 +56,11 @@ def read_config():
     config.read(CONFIG_FILE)
     return config["DEFAULT"]["theme"]
 
-
 def save_config(theme):
     config = configparser.ConfigParser()
     config["DEFAULT"] = {"theme": theme}
     with open(CONFIG_FILE, "w") as configfile:
         config.write(configfile)
-
 
 def select_theme():
     print("Select a theme:")
@@ -85,7 +79,6 @@ def select_theme():
 
     return themes.get(choice, "normal")
 
-
 def apply_theme(text, theme, start_color=(255, 0, 0), end_color=(0, 0, 255)):
     if theme == "gradient":
         return gradient_text(text, start_color, end_color)
@@ -95,7 +88,6 @@ def apply_theme(text, theme, start_color=(255, 0, 0), end_color=(0, 0, 255)):
         return blood_red_text(text)
     else:
         return text
-
 
 def search_query(query_value):
     params = {
@@ -114,7 +106,6 @@ def search_query(query_value):
         print(f"Error: {response.status_code}")
         return None
 
-
 def print_results(results, theme):
     if results:
         print("Raw API Response:")
@@ -128,7 +119,6 @@ def print_results(results, theme):
     else:
         print("No results found.")
 
-
 def main():
     banner()
     theme = read_config()
@@ -136,9 +126,9 @@ def main():
         theme = select_theme()
         save_config(theme)
 
-    print(apply_theme("Version 2.0\n"), theme)
-    print(apply_theme("Created by un1xr00t\n"), theme)
-    print(apply_theme("Information obtained from https://www.proxynova.com/tools/comb\n"), theme)
+    print(apply_theme("Version 2.0\n", theme))
+    print(apply_theme("Created by un1xr00t\n", theme))
+    print(apply_theme("Information obtained from https://www.proxynova.com/tools/comb\n", theme))
 
     while True:
         query_value = input(apply_theme("Enter target's email, username or a known password\n (or type 'exit' to quit): ", theme))
@@ -148,7 +138,6 @@ def main():
 
         results = search_query(query_value)
         print_results(results, theme)
-
 
 if __name__ == "__main__":
     main()
