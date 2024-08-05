@@ -21,6 +21,9 @@ InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecu
 - Easy-to-use terminal interface.
 - Retrieves and displays results from the ProxyNova API.
 
+![image](https://github.com/user-attachments/assets/90c95094-370f-4571-9526-f8b0a1d58542)
+
+
 ## Installation
 
 1. Clone the repository:
@@ -50,9 +53,7 @@ Run the script:
 
 ```sh
 python3 InfoSnoop.py
-
-![image](https://github.com/user-attachments/assets/90c95094-370f-4571-9526-f8b0a1d58542)
-
+```
 ## Tips
 
 If you want to change to a different theme, go to the directory that InfoSnoop.py is in and delete 'config.ini'. This will allow you to change the theme the next time you launch InfoSnoop.py.
