@@ -50,6 +50,7 @@ Run the script:
 
 ```sh
 python3 InfoSnoop.py
+![image](https://github.com/user-attachments/assets/e5ea1ba1-b996-4012-b310-b3407f602597)
 
 ## Tips
 
