@@ -22,7 +22,8 @@ InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecu
 - Easy-to-use terminal interface.
 - Retrieves and displays results from the ProxyNova API.
 
-![image](https://github.com/user-attachments/assets/90c95094-370f-4571-9526-f8b0a1d58542)
+
+![image](https://github.com/user-attachments/assets/70db40dd-fcd5-4a5d-9154-4aa3943385b8)
 
 
 ## Installation
