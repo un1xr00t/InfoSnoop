@@ -51,7 +51,7 @@ Run the script:
 ```sh
 python3 InfoSnoop.py
 
-![image](https://github.com/user-attachments/assets/9c7694e5-4e27-4c1f-9966-178ccf2b098d)
+![image](https://github.com/user-attachments/assets/90c95094-370f-4571-9526-f8b0a1d58542)
 
 ## Tips
 
