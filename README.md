@@ -4,7 +4,8 @@
 
 This tool is for educational purposes only. The developers are not responsible for any misuse of this tool. Do not use this tool for illegal activities.
 
-![image](https://github.com/user-attachments/assets/5ee124d6-47ee-40ba-8438-bf10419aaf02)
+![image](https://github.com/user-attachments/assets/5e90ffd0-ddd9-4eb9-b6a3-dfe989d4deac)
+
 
 
 
