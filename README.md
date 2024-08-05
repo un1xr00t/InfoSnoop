@@ -39,6 +39,7 @@ InfoSnoop is a powerful and versatile info-gathering tool designed for cybersecu
 3. Install the required packages:
 
     ```sh
+    sudo apt install python3-termcolor
     pip install -r requirements.txt
     ```
 
