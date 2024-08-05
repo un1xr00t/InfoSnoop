@@ -1,4 +1,4 @@
-import requests
+0import requests
 import json
 import os
 import configparser
@@ -137,7 +137,7 @@ def main():
         save_config(theme)
 
     print(apply_theme("Version 2.0\n", theme))
-    print(apply_theme("Created by un1xr00t\n"), theme))
+    print(apply_theme("Created by un1xr00t\n"), theme)
     print(apply_theme("Information obtained from https://www.proxynova.com/tools/comb\n"), theme))
 
     while True:
